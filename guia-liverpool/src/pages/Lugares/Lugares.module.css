@@ -1,0 +1,22 @@
+.lugares {
+  padding: 30px 20px;
+  text-align: center;
+}
+
+.lugares h1 {
+  color: #c8102e;
+}
+
+.subtitulo {
+  margin-top: 10px;
+  margin-bottom: 30px;
+  color: #666;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
+  text-align: left;
+}

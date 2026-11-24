@@ -1,0 +1,26 @@
+.sobre {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 30px;
+  background-color: white;
+  border-radius: 8px;
+}
+
+.sobre h1 {
+  color: #c8102e;
+  margin-bottom: 20px;
+}
+
+.sobre h2 {
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+
+.sobre p {
+  margin-bottom: 15px;
+  line-height: 1.5;
+}
+
+.sobre ul {
+  padding-left: 20px;
+}
